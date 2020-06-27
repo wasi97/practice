@@ -1,0 +1,28 @@
+
+div{
+    margin-bottom:3px;
+}
+
+.main {
+    background-color:blue;
+    border: 1px solid black;
+    width:195px;
+    padding:3px;
+    padding-left:5px;
+}
+
+#answer, #result{
+    text-align:right ;
+    padding-right:10px;
+    background-color:grey;
+    color:white;
+    width:178px;
+}
+
+.btn{
+    width:45px;
+}
+
+.halfbtn{
+    width:94px;
+}
